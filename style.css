@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+}
+
+img {
+    width: 250px;
+    height: 300px;
+    padding: 5px;
+    border: solid;
+    border-radius: 5%;
+}
+.section{
+    text-align: center;
+    background-color: gold;
+}
+h1{
+    font-size: 50px;
+}
+#mainimg{
+     width: 700px;
+    height:350px;
+    padding: 5px;
+    border: solid;
+    border-radius: 5%;
+}
+h2{
+    font-size: 35px;
+}
